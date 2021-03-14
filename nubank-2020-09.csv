@@ -1,0 +1,44 @@
+date,category,title,amount
+2020-07-28,vestuário,Adix 4/9,24.44
+2020-07-28,eletrônicos,Limpol 4/6,33.16
+2020-07-29,outros,Merc 1/6,24.96
+2020-07-30,supermercado,Caref,10.14
+2020-07-30,supermercado,Nobreza,10.69
+2020-08-03,supermercado,Duv,11.27
+"2020-08-03,,IOF de ""Ling"",3.26"
+2020-08-03,supermercado,Ev,11.9
+2020-08-03,eletrônicos,Ling,11.14
+2020-08-04,supermercado,Nutri,21.2
+2020-08-05,eletrônicos,Sacolix,5.6
+2020-08-05,lazer,Mia,29.9
+2020-08-06,,Pagamento recebido,-137.04
+2020-08-07,supermercado,Caref,44.2
+2020-08-07,supermercado,Nutri,8.69
+2020-08-07,saúde,Tama,10.96
+2020-08-07,serviços,Lix,21.9
+2020-08-08,supermercado,V M,7.98
+2020-08-08,supermercado,Nutri,10.5
+2020-08-08,,Rec,10
+2020-08-10,transporte,Beriz,16.47
+2020-08-10,supermercado,V M,3.29
+2020-08-10,casa,Assax,201.39
+2020-08-11,supermercado,V M,11.07
+2020-08-13,supermercado,V M,11.07
+2020-08-14,supermercado,V M,9.77
+2020-08-15,supermercado,Caref,42.83
+2020-08-15,eletrônicos,Sacolix,10.75
+2020-08-17,supermercado,Caref,19.19
+2020-08-18,supermercado,V M,9.77
+2020-08-19,supermercado,M L,11.39
+2020-08-19,supermercado,Ev,11.7
+2020-08-22,supermercado,Nutri,11.52
+2020-08-22,supermercado,V M,7.28
+2020-08-24,supermercado,V M,11.56
+2020-08-24,eletrônicos,Tut,2.39
+2020-08-24,saúde,Hip,6
+2020-08-24,supermercado,Caref,19.9
+2020-08-24,supermercado,Caref,13.75
+2020-08-25,supermercado,V M,9.77
+2020-08-27,supermercado,V M,6.08
+2020-08-28,,Tax,16.74
+2020-08-28,,Tax,7.84
